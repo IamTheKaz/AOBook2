@@ -6,87 +6,37 @@
     {
       "id": 1,
       "title": "Chapter 1",
-      "pdf": "assets/pdf/AOBook2Chapter1.pdf",
       "parts": [
-        {
-          "label": "Part 1",
-          "audio": "assets/audio/chapter1/part1.mp3",
-          "timing": "assets/timings/chapter1_part1.json",
-          "image": "assets/images/chapter1/part1.jpg"
-        },
-        {
-          "label": "Part 2",
-          "audio": "assets/audio/chapter1/part2.mp3",
-          "timing": "assets/timings/chapter1_part2.json",
-          "image": "assets/images/chapter1/part2.jpg"
-        },
-        {
-          "label": "Part 3",
-          "audio": "assets/audio/chapter1/part3.mp3",
-          "timing": "assets/timings/chapter1_part3.json",
-          "image": "assets/images/chapter1/part3.jpg"
-        },
-        {
-          "label": "Part 4",
-          "audio": "assets/audio/chapter1/part4.mp3",
-          "timing": "assets/timings/chapter1_part4.json",
-          "image": "assets/images/chapter1/part4.jpg"
-        },
-        {
-          "label": "Part 5",
-          "audio": "assets/audio/chapter1/part5.mp3",
-          "timing": "assets/timings/chapter1_part5.json",
-          "image": "assets/images/chapter1/part5.jpg"
-        },
-        {
-          "label": "Part 6",
-          "audio": "assets/audio/chapter1/part6.mp3",
-          "timing": "assets/timings/chapter1_part6.json",
-          "image": "assets/images/chapter1/part6.jpg"
-        }
+        { "label": "Part 1", "audio": "assets/audio/chapter1/part1.mp3", "timing": "assets/timings/chapter1_part1.json", "image": "assets/images/chapter1/part1.jpg" },
+        { "label": "Part 2", "audio": "assets/audio/chapter1/part2.mp3", "timing": "assets/timings/chapter1_part2.json", "image": "assets/images/chapter1/part2.jpg" },
+        { "label": "Part 3", "audio": "assets/audio/chapter1/part3.mp3", "timing": "assets/timings/chapter1_part3.json", "image": "assets/images/chapter1/part3.jpg" },
+        { "label": "Part 4", "audio": "assets/audio/chapter1/part4.mp3", "timing": "assets/timings/chapter1_part4.json", "image": "assets/images/chapter1/part4.jpg" },
+        { "label": "Part 5", "audio": "assets/audio/chapter1/part5.mp3", "timing": "assets/timings/chapter1_part5.json", "image": "assets/images/chapter1/part5.jpg" },
+        { "label": "Part 6", "audio": "assets/audio/chapter1/part6.mp3", "timing": "assets/timings/chapter1_part6.json", "image": "assets/images/chapter1/part6.jpg" }
       ]
     },
     {
       "id": 2,
       "title": "Chapter 2",
-      "pdf": "assets/pdf/chapter2.pdf",
       "parts": [
-        {
-          "label": "Part 1",
-          "audio": "assets/audio/chapter2/part1.mp3",
-          "timing": "assets/timings/chapter2_part1.json",
-          "image": "assets/images/chapter2/part1.jpg"
-        },
-        {
-          "label": "Part 2",
-          "audio": "assets/audio/chapter2/part2.mp3",
-          "timing": "assets/timings/chapter2_part2.json",
-          "image": "assets/images/chapter2/part2.jpg"
-        },
-        {
-          "label": "Part 3",
-          "audio": "assets/audio/chapter2/part3.mp3",
-          "timing": "assets/timings/chapter2_part3.json",
-          "image": "assets/images/chapter2/part3.jpg"
-        },
-        {
-          "label": "Part 4",
-          "audio": "assets/audio/chapter2/part4.mp3",
-          "timing": "assets/timings/chapter2_part4.json",
-          "image": "assets/images/chapter2/part4.jpg"
-        },
-        {
-          "label": "Part 5",
-          "audio": "assets/audio/chapter2/part5.mp3",
-          "timing": "assets/timings/chapter2_part5.json",
-          "image": "assets/images/chapter2/part5.jpg"
-        },
-        {
-          "label": "Part 6",
-          "audio": "assets/audio/chapter2/part6.mp3",
-          "timing": "assets/timings/chapter2_part6.json",
-          "image": "assets/images/chapter2/part6.jpg"
-        }
+        { "label": "Part 1", "audio": "assets/audio/chapter2/part1.mp3", "timing": "assets/timings/chapter2_part1.json", "image": "assets/images/chapter2/part1.jpg" },
+        { "label": "Part 2", "audio": "assets/audio/chapter2/part2.mp3", "timing": "assets/timings/chapter2_part2.json", "image": "assets/images/chapter2/part2.jpg" },
+        { "label": "Part 3", "audio": "assets/audio/chapter2/part3.mp3", "timing": "assets/timings/chapter2_part3.json", "image": "assets/images/chapter2/part3.jpg" },
+        { "label": "Part 4", "audio": "assets/audio/chapter2/part4.mp3", "timing": "assets/timings/chapter2_part4.json", "image": "assets/images/chapter2/part4.jpg" },
+        { "label": "Part 5", "audio": "assets/audio/chapter2/part5.mp3", "timing": "assets/timings/chapter2_part5.json", "image": "assets/images/chapter2/part5.jpg" },
+        { "label": "Part 6", "audio": "assets/audio/chapter2/part6.mp3", "timing": "assets/timings/chapter2_part6.json", "image": "assets/images/chapter2/part6.jpg" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Chapter 3",
+      "parts": [
+        { "label": "Part 1", "audio": "assets/audio/chapter3/part1.mp3", "timing": "assets/timings/chapter3_part1.json", "image": "assets/images/chapter3/part1.jpg" },
+        { "label": "Part 2", "audio": "assets/audio/chapter3/part2.mp3", "timing": "assets/timings/chapter3_part2.json", "image": "assets/images/chapter3/part2.jpg" },
+        { "label": "Part 3", "audio": "assets/audio/chapter3/part3.mp3", "timing": "assets/timings/chapter3_part3.json", "image": "assets/images/chapter3/part3.jpg" },
+        { "label": "Part 4", "audio": "assets/audio/chapter3/part4.mp3", "timing": "assets/timings/chapter3_part4.json", "image": "assets/images/chapter3/part4.jpg" },
+        { "label": "Part 5", "audio": "assets/audio/chapter3/part5.mp3", "timing": "assets/timings/chapter3_part5.json", "image": "assets/images/chapter3/part5.jpg" },
+        { "label": "Part 6", "audio": "assets/audio/chapter3/part6.mp3", "timing": "assets/timings/chapter3_part6.json", "image": "assets/images/chapter3/part6.jpg" }
       ]
     }
   ]
