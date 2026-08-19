@@ -12,7 +12,6 @@
   const nextChapterLink = document.getElementById('next-chapter-link');
   const prevChapterLink = document.getElementById('prev-chapter-link');
   const prevChapterLabel = document.getElementById('prev-chapter-label');
-  const pdfLink = document.getElementById('pdf-link');
 
   let data, chapter, activePartIndex = -1, words = [], rafId = null;
 
@@ -33,7 +32,6 @@
 
   document.title = `${chapter.title} — ${data.title}`;
   titleEl.textContent = chapter.title;
-  pdfLink.href = chapter.pdf;
 
   // Wire up Previous / Next chapter links, if they exist.
   const chapterIndex = data.chapters.findIndex((c) => c.id === chapterId);
