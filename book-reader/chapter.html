@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter — Aeonic Odyssey: Book 2</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body class="reader-body">
+
+<header class="reader-header">
+  <div class="header-left">
+    <a class="back" href="index.html?toc=1">&larr; Table of Contents</a>
+    <a class="prev-chapter" id="prev-chapter-link" href="#" hidden>&larr; <span id="prev-chapter-label"></span></a>
+  </div>
+  <h1 id="chapter-title">Loading…</h1>
+  <div class="header-right">
+    <a class="pdf-link" id="pdf-link" href="#" target="_blank" rel="noopener">View PDF</a>
+    <a class="next-chapter" id="next-chapter-link" href="#" hidden>Next Chapter &rarr;</a>
+  </div>
+</header>
+
+<div class="mobile-toggle" id="mobile-toggle">
+  <button class="toggle-btn" data-view="image" type="button">Image</button>
+  <button class="toggle-btn active" data-view="words" type="button">Words</button>
+</div>
+
+<div class="reader-grid" id="reader-grid">
+  <section class="spread-image">
+    <img id="part-image" src="" alt="Illustration for this part">
+  </section>
+
+  <div class="part-tabs" id="part-tabs"></div>
+  <div class="transcript" id="transcript" aria-live="off"></div>
+  <div class="player">
+    <p class="player-status" id="player-status">Select a part to begin.</p>
+    <audio id="audio-player" controls></audio>
+  </div>
+</div>
+
+<script src="js/reader.js"></script>
+</body>
+</html>
