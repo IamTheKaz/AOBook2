@@ -48,6 +48,16 @@
     nextChapterLink.removeAttribute('hidden');
   }
 
+  // Coming-soon chapters: show the placeholder image and message,
+  // skip audio/tabs/transcript loading entirely.
+  if (chapter.comingSoon) {
+    imageEl.src = 'assets/coming-soon.jpg';
+    tabsEl.hidden = true;
+    document.querySelector('.player').hidden = true;
+    transcriptEl.innerHTML = '<p style="font-size:1.4rem;text-align:center;margin-top:2em;">Chapter Coming Soon</p>';
+    return;
+  }
+
   // Build the Part 1–5 tabs.
   chapter.parts.forEach((part, i) => {
     const btn = document.createElement('button');

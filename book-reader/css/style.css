@@ -158,6 +158,17 @@ a{ color: inherit; }
   border-bottom: 1px solid rgba(184,137,46,0.35);
 }
 
+.toc-badge{
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gilt);
+  border: 1px solid var(--gilt);
+  border-radius: 999px;
+  padding: 0.25em 0.8em;
+  white-space: nowrap;
+}
+
 .toc a{
   display: flex;
   align-items: baseline;

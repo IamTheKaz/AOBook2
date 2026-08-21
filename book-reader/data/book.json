@@ -7,37 +7,283 @@
       "id": 1,
       "title": "Chapter 1",
       "parts": [
-        { "label": "Part 1", "audio": "assets/audio/chapter1/part1.mp3", "timing": "assets/timings/chapter1_part1.json", "image": "assets/images/chapter1/part1.jpg" },
-        { "label": "Part 2", "audio": "assets/audio/chapter1/part2.mp3", "timing": "assets/timings/chapter1_part2.json", "image": "assets/images/chapter1/part2.jpg" },
-        { "label": "Part 3", "audio": "assets/audio/chapter1/part3.mp3", "timing": "assets/timings/chapter1_part3.json", "image": "assets/images/chapter1/part3.jpg" },
-        { "label": "Part 4", "audio": "assets/audio/chapter1/part4.mp3", "timing": "assets/timings/chapter1_part4.json", "image": "assets/images/chapter1/part4.jpg" },
-        { "label": "Part 5", "audio": "assets/audio/chapter1/part5.mp3", "timing": "assets/timings/chapter1_part5.json", "image": "assets/images/chapter1/part5.jpg" },
-        { "label": "Part 6", "audio": "assets/audio/chapter1/part6.mp3", "timing": "assets/timings/chapter1_part6.json", "image": "assets/images/chapter1/part6.jpg" }
+        {
+          "label": "Part 1",
+          "audio": "assets/audio/chapter1/part1.mp3",
+          "timing": "assets/timings/chapter1_part1.json",
+          "image": "assets/images/chapter1/part1.jpg"
+        },
+        {
+          "label": "Part 2",
+          "audio": "assets/audio/chapter1/part2.mp3",
+          "timing": "assets/timings/chapter1_part2.json",
+          "image": "assets/images/chapter1/part2.jpg"
+        },
+        {
+          "label": "Part 3",
+          "audio": "assets/audio/chapter1/part3.mp3",
+          "timing": "assets/timings/chapter1_part3.json",
+          "image": "assets/images/chapter1/part3.jpg"
+        },
+        {
+          "label": "Part 4",
+          "audio": "assets/audio/chapter1/part4.mp3",
+          "timing": "assets/timings/chapter1_part4.json",
+          "image": "assets/images/chapter1/part4.jpg"
+        },
+        {
+          "label": "Part 5",
+          "audio": "assets/audio/chapter1/part5.mp3",
+          "timing": "assets/timings/chapter1_part5.json",
+          "image": "assets/images/chapter1/part5.jpg"
+        },
+        {
+          "label": "Part 6",
+          "audio": "assets/audio/chapter1/part6.mp3",
+          "timing": "assets/timings/chapter1_part6.json",
+          "image": "assets/images/chapter1/part6.jpg"
+        }
       ]
     },
     {
       "id": 2,
       "title": "Chapter 2",
       "parts": [
-        { "label": "Part 1", "audio": "assets/audio/chapter2/part1.mp3", "timing": "assets/timings/chapter2_part1.json", "image": "assets/images/chapter2/part1.jpg" },
-        { "label": "Part 2", "audio": "assets/audio/chapter2/part2.mp3", "timing": "assets/timings/chapter2_part2.json", "image": "assets/images/chapter2/part2.jpg" },
-        { "label": "Part 3", "audio": "assets/audio/chapter2/part3.mp3", "timing": "assets/timings/chapter2_part3.json", "image": "assets/images/chapter2/part3.jpg" },
-        { "label": "Part 4", "audio": "assets/audio/chapter2/part4.mp3", "timing": "assets/timings/chapter2_part4.json", "image": "assets/images/chapter2/part4.jpg" },
-        { "label": "Part 5", "audio": "assets/audio/chapter2/part5.mp3", "timing": "assets/timings/chapter2_part5.json", "image": "assets/images/chapter2/part5.jpg" },
-        { "label": "Part 6", "audio": "assets/audio/chapter2/part6.mp3", "timing": "assets/timings/chapter2_part6.json", "image": "assets/images/chapter2/part6.jpg" }
+        {
+          "label": "Part 1",
+          "audio": "assets/audio/chapter2/part1.mp3",
+          "timing": "assets/timings/chapter2_part1.json",
+          "image": "assets/images/chapter2/part1.jpg"
+        },
+        {
+          "label": "Part 2",
+          "audio": "assets/audio/chapter2/part2.mp3",
+          "timing": "assets/timings/chapter2_part2.json",
+          "image": "assets/images/chapter2/part2.jpg"
+        },
+        {
+          "label": "Part 3",
+          "audio": "assets/audio/chapter2/part3.mp3",
+          "timing": "assets/timings/chapter2_part3.json",
+          "image": "assets/images/chapter2/part3.jpg"
+        },
+        {
+          "label": "Part 4",
+          "audio": "assets/audio/chapter2/part4.mp3",
+          "timing": "assets/timings/chapter2_part4.json",
+          "image": "assets/images/chapter2/part4.jpg"
+        },
+        {
+          "label": "Part 5",
+          "audio": "assets/audio/chapter2/part5.mp3",
+          "timing": "assets/timings/chapter2_part5.json",
+          "image": "assets/images/chapter2/part5.jpg"
+        },
+        {
+          "label": "Part 6",
+          "audio": "assets/audio/chapter2/part6.mp3",
+          "timing": "assets/timings/chapter2_part6.json",
+          "image": "assets/images/chapter2/part6.jpg"
+        }
       ]
     },
     {
       "id": 3,
       "title": "Chapter 3",
       "parts": [
-        { "label": "Part 1", "audio": "assets/audio/chapter3/part1.mp3", "timing": "assets/timings/chapter3_part1.json", "image": "assets/images/chapter3/part1.jpg" },
-        { "label": "Part 2", "audio": "assets/audio/chapter3/part2.mp3", "timing": "assets/timings/chapter3_part2.json", "image": "assets/images/chapter3/part2.jpg" },
-        { "label": "Part 3", "audio": "assets/audio/chapter3/part3.mp3", "timing": "assets/timings/chapter3_part3.json", "image": "assets/images/chapter3/part3.jpg" },
-        { "label": "Part 4", "audio": "assets/audio/chapter3/part4.mp3", "timing": "assets/timings/chapter3_part4.json", "image": "assets/images/chapter3/part4.jpg" },
-        { "label": "Part 5", "audio": "assets/audio/chapter3/part5.mp3", "timing": "assets/timings/chapter3_part5.json", "image": "assets/images/chapter3/part5.jpg" },
-        { "label": "Part 6", "audio": "assets/audio/chapter3/part6.mp3", "timing": "assets/timings/chapter3_part6.json", "image": "assets/images/chapter3/part6.jpg" }
+        {
+          "label": "Part 1",
+          "audio": "assets/audio/chapter3/part1.mp3",
+          "timing": "assets/timings/chapter3_part1.json",
+          "image": "assets/images/chapter3/part1.jpg"
+        },
+        {
+          "label": "Part 2",
+          "audio": "assets/audio/chapter3/part2.mp3",
+          "timing": "assets/timings/chapter3_part2.json",
+          "image": "assets/images/chapter3/part2.jpg"
+        },
+        {
+          "label": "Part 3",
+          "audio": "assets/audio/chapter3/part3.mp3",
+          "timing": "assets/timings/chapter3_part3.json",
+          "image": "assets/images/chapter3/part3.jpg"
+        },
+        {
+          "label": "Part 4",
+          "audio": "assets/audio/chapter3/part4.mp3",
+          "timing": "assets/timings/chapter3_part4.json",
+          "image": "assets/images/chapter3/part4.jpg"
+        },
+        {
+          "label": "Part 5",
+          "audio": "assets/audio/chapter3/part5.mp3",
+          "timing": "assets/timings/chapter3_part5.json",
+          "image": "assets/images/chapter3/part5.jpg"
+        },
+        {
+          "label": "Part 6",
+          "audio": "assets/audio/chapter3/part6.mp3",
+          "timing": "assets/timings/chapter3_part6.json",
+          "image": "assets/images/chapter3/part6.jpg"
+        }
       ]
+    },
+    {
+      "id": 4,
+      "title": "Chapter 4",
+      "parts": [
+        {
+          "label": "Part 1",
+          "audio": "assets/audio/chapter4/part1.mp3",
+          "timing": "assets/timings/chapter4_part1.json",
+          "image": "assets/images/chapter4/part1.jpg"
+        },
+        {
+          "label": "Part 2",
+          "audio": "assets/audio/chapter4/part2.mp3",
+          "timing": "assets/timings/chapter4_part2.json",
+          "image": "assets/images/chapter4/part2.jpg"
+        },
+        {
+          "label": "Part 3",
+          "audio": "assets/audio/chapter4/part3.mp3",
+          "timing": "assets/timings/chapter4_part3.json",
+          "image": "assets/images/chapter4/part3.jpg"
+        },
+        {
+          "label": "Part 4",
+          "audio": "assets/audio/chapter4/part4.mp3",
+          "timing": "assets/timings/chapter4_part4.json",
+          "image": "assets/images/chapter4/part4.jpg"
+        },
+        {
+          "label": "Part 5",
+          "audio": "assets/audio/chapter4/part5.mp3",
+          "timing": "assets/timings/chapter4_part5.json",
+          "image": "assets/images/chapter4/part5.jpg"
+        },
+        {
+          "label": "Part 6",
+          "audio": "assets/audio/chapter4/part6.mp3",
+          "timing": "assets/timings/chapter4_part6.json",
+          "image": "assets/images/chapter4/part6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Chapter 5",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 6,
+      "title": "Chapter 6",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 7,
+      "title": "Chapter 7",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 8,
+      "title": "Chapter 8",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 9,
+      "title": "Chapter 9",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 10,
+      "title": "Chapter 10",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 11,
+      "title": "Chapter 11",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 12,
+      "title": "Chapter 12",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 13,
+      "title": "Chapter 13",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 14,
+      "title": "Chapter 14",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 15,
+      "title": "Chapter 15",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 16,
+      "title": "Chapter 16",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 17,
+      "title": "Chapter 17",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 18,
+      "title": "Chapter 18",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 19,
+      "title": "Chapter 19",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 20,
+      "title": "Chapter 20",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 21,
+      "title": "Chapter 21",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 22,
+      "title": "Chapter 22",
+      "comingSoon": true,
+      "parts": []
+    },
+    {
+      "id": 23,
+      "title": "Chapter 23",
+      "comingSoon": true,
+      "parts": []
     }
   ]
 }

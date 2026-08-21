@@ -28,11 +28,11 @@
     a.innerHTML = `
       <span class="toc-num">${String(i + 1).padStart(2, '0')}</span>
       <span class="toc-title">${ch.title}</span>
-      <span class="toc-arrow" aria-hidden="true">&rarr;</span>
+      ${ch.comingSoon ? '<span class="toc-badge">Coming Soon</span>' : '<span class="toc-arrow" aria-hidden="true">&rarr;</span>'}
     `;
     li.appendChild(a);
 
-    if (ch.parts && ch.parts.length) {
+    if (ch.parts && ch.parts.length && !ch.comingSoon) {
       const partsRow = document.createElement('div');
       partsRow.className = 'toc-parts';
       ch.parts.forEach((part, pi) => {
