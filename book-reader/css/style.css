@@ -26,6 +26,7 @@ html, body{
 
 body.reader-body{
   height: 100vh;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -355,7 +356,7 @@ a{ color: inherit; }
   .reader-grid.view-words .transcript{ display: block; }
 
   .part-tabs{ padding: 0.8em 5vw 0; }
-  .player{ padding: 0.8em 5vw 1em; }
+  .player{ padding: 0.8em 5vw calc(1em + env(safe-area-inset-bottom)); }
 }
 
 .spread-image{
