@@ -174,8 +174,44 @@
     {
       "id": 5,
       "title": "Chapter 5",
-      "comingSoon": true,
-      "parts": []
+      "parts": [
+        {
+          "label": "Part 1",
+          "audio": "assets/audio/chapter5/part1.mp3",
+          "timing": "assets/timings/chapter5_part1.json",
+          "image": "assets/images/chapter5/part1.jpg"
+        },
+        {
+          "label": "Part 2",
+          "audio": "assets/audio/chapter5/part2.mp3",
+          "timing": "assets/timings/chapter5_part2.json",
+          "image": "assets/images/chapter5/part2.jpg"
+        },
+        {
+          "label": "Part 3",
+          "audio": "assets/audio/chapter5/part3.mp3",
+          "timing": "assets/timings/chapter5_part3.json",
+          "image": "assets/images/chapter5/part3.jpg"
+        },
+        {
+          "label": "Part 4",
+          "audio": "assets/audio/chapter5/part4.mp3",
+          "timing": "assets/timings/chapter5_part4.json",
+          "image": "assets/images/chapter5/part4.jpg"
+        },
+        {
+          "label": "Part 5",
+          "audio": "assets/audio/chapter5/part5.mp3",
+          "timing": "assets/timings/chapter5_part5.json",
+          "image": "assets/images/chapter5/part5.jpg"
+        },
+        {
+          "label": "Part 6",
+          "audio": "assets/audio/chapter5/part6.mp3",
+          "timing": "assets/timings/chapter5_part6.json",
+          "image": "assets/images/chapter5/part6.jpg"
+        }
+      ]
     },
     {
       "id": 6,
