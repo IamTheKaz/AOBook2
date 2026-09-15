@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Checkout — Aeonic Odyssey</title>
+<link rel="stylesheet" href="css/site.css">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="site"><div class="wrap bar"><a class="brand" href="index.html"><span class="display">Aeonic Odyssey</span></a></div></header>
+<main class="wrap-narrow section">
+<p class="kicker">Checkout</p>
+<h1>A name, not a card</h1>
+<p class="muted" style="margin-top:1rem">This is a demonstration checkout. Nothing is charged.</p>
+<form data-checkout style="margin-top:2rem;display:grid;gap:1rem">
+  <label>Name<input required name="name" autocomplete="name" style="display:block;width:100%;min-height:44px;margin-top:.35rem;background:#14110f;color:#ede3d0;border:1px solid rgba(237,227,208,.16);border-radius:8px;padding:.6rem .8rem"></label>
+  <label>Email<input required type="email" name="email" autocomplete="email" style="display:block;width:100%;min-height:44px;margin-top:.35rem;background:#14110f;color:#ede3d0;border:1px solid rgba(237,227,208,.16);border-radius:8px;padding:.6rem .8rem"></label>
+  <button class="btn" type="submit">Place order</button>
+</form>
+<div data-thanks hidden>
+  <p class="display" style="font-size:1.8rem;margin-top:1rem">It's recorded.</p>
+  <p class="muted">When real payments are wired, this is where the file would unlock.</p>
+  <p class="row" style="margin-top:1.5rem"><a class="btn" href="process.html">The method</a><a class="btn ghost" href="book-reader/">Open the reader</a></p>
+</div>
+</main>
+<script src="js/site.js"></script>
+</body>
+</html>
