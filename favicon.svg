@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Aeonic Odyssey">
+  <rect width="32" height="32" rx="7" fill="#0c0a09"/>
+  <g transform="translate(16 16) scale(0.78) translate(-16 -16)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="16" cy="16" r="14.5" stroke="#7A2734" stroke-width="2.2"/>
+    <path
+      d="M16 16c0-4.2-2.1-6.8-5.2-6.8C7.4 9.2 6 12 6 16c0 5.4 4 9.2 10 9.2 6.4 0 10-4.2 10-9.6C26 10.4 21.8 7 16 7c-4.6 0-7.6 2.4-7.6 6.2 0 3.2 2 5.2 5.4 5.2 3.6 0 5.4-2.2 5.4-5.4"
+      stroke="#EDE3D0"
+      stroke-width="2.6"
+    />
+  </g>
+</svg>
